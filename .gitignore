@@ -1,4 +1,5 @@
 .venv/
+.vscode/
 **/Report.docx
 **/Report.pdf
 **/__pycache__
