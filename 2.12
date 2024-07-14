@@ -1,0 +1,9 @@
+Channels:
+ - menpo
+ - defaults
+ - conda-forge
+ - nvidia
+ - pytorch
+Platform: win-64
+Collecting package metadata (repodata.json): ...working... failed
+Terminate batch job (Y/N)? 
